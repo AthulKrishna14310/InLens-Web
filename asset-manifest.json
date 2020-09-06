@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/inlens-web/static/css/main.5f361e03.chunk.css",
+    "main.js": "/inlens-web/static/js/main.0fbac422.chunk.js",
+    "main.js.map": "/inlens-web/static/js/main.0fbac422.chunk.js.map",
+    "runtime-main.js": "/inlens-web/static/js/runtime-main.f025c32f.js",
+    "runtime-main.js.map": "/inlens-web/static/js/runtime-main.f025c32f.js.map",
+    "static/js/2.129360b6.chunk.js": "/inlens-web/static/js/2.129360b6.chunk.js",
+    "static/js/2.129360b6.chunk.js.map": "/inlens-web/static/js/2.129360b6.chunk.js.map",
+    "index.html": "/inlens-web/index.html",
+    "precache-manifest.504b2df2abdc1be0c21cc5f80d4babaa.js": "/inlens-web/precache-manifest.504b2df2abdc1be0c21cc5f80d4babaa.js",
+    "service-worker.js": "/inlens-web/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/inlens-web/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.129360b6.chunk.js.LICENSE.txt": "/inlens-web/static/js/2.129360b6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/inlens-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f025c32f.js",
+    "static/js/2.129360b6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0fbac422.chunk.js"
+  ]
+}
